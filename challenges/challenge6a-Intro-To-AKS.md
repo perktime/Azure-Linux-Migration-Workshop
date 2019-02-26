@@ -1,8 +1,8 @@
-# Intro to Azure Container Service (AKS)
+# Intro to Azure Kubernetes Service (AKS)
 
 ## Expected outcome
 
-In this lab, you will get introduced to the new Azure Container Service (AKS). As you can tell the acronym doesn't match the wording, and that is because AKS is based off of the Kubernetes Orchestrator (the K in AKS). This lab will take you through verifying that your Azure CLI is registered to use the new service, along with having you create a Kubernetes container cluster and create your own yaml manifest file to stand up your first highly-available container application!
+In this lab, you will get introduced to the Azure Kubernetes Service (AKS). This lab will take you through verifying that your Azure CLI is registered to use the new service, along with having you create a Kubernetes container cluster and create your own yaml manifest file to stand up your first highly-available container application!
 
 
 ## How to 
