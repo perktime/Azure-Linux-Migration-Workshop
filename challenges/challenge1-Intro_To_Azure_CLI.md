@@ -42,6 +42,7 @@ In this lab, you will prepare your workstation VM for using the Azure CLI, sign 
  * You will need administrator access to install Azure CLI. You can switch user to root with ``su``. The password is the same as you used to login to the VNC environment.
  * You can find installation instructions here: [Install Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-yum?view=azure-cli-latest)
  * It is recommended you open reference material like the Azure CLI reference within your VNC environment so you can easily copy/paste commands.
+ * Alternatively, you could use Azure Cloudshell from the Azure Portal. 
 
 <hr>
 4. <strong>Log in to your student Azure account via the CLI</strong>
